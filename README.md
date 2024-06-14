@@ -8,7 +8,7 @@ Full Stack Engineer & ML Engineer 💻
 * Frameworks: React, Rails, Next.js, Django, Flask
 * Cloud: AWS, Google Cloud, Azure
 * Data: Python, Pandas, Scikit-learn, Seaborn, Matplotlib
-* ML: LLM/NLP, PyTorch, Tensorflow, Huggingface, SageMaker
+* ML: LLM/NLP, Streamlit, LangChain, Agents, RAG Agents, PyTorch
 
 ### Experience 📚
 * adcopy.ai (2023 - Present)
