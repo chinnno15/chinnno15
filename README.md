@@ -17,6 +17,6 @@ Full Stack Engineer & ML Engineer 💻
 * Twilio (2016 - 2019)
 
 ### Get in Touch 📲
-* Website: [joliveros.github.io](https://joliveros.github.io)
+* Website: [chinnno15.github.io](https://chinnno15.github.io)
 * LinkedIn: [linkedin.com/in/jose-oliveros-42a48b306/](https://www.linkedin.com/in/jose-oliveros-42a48b306/)
 * Email: chinnno15@gmail.com
