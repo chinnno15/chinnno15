@@ -14,8 +14,8 @@ Engineer who builds AI products from an empty repo to production. Sole engineer 
 * **Infra / DevOps:** AWS, GCP, Docker, Kubernetes, Terraform, Jenkins, CI/CD
 
 ### Experience 🎯
-* **Founding Engineer** — Addie (AI-first education) · Oct 2024 – Present
-  - First and only engineer — built the entire product end to end. Architected a LangGraph agent system delivering personalized counseling across web, SMS, voice, and WhatsApp, with real-time voice on WebRTC + OpenAI Realtime API at sub-200ms latency. Shipped three Next.js products (student portal, counselor dashboard, admin console), delivering to students across 10+ countries.
+* **Founding Engineer** — [Addie](https://getaddie.com) (AI college counselor) · Oct 2024 – Present
+  - First and only engineer — built the entire product end to end. Architected a LangGraph agent system delivering personalized college counseling across web, SMS, voice, and WhatsApp, with real-time voice on WebRTC + OpenAI Realtime API. Shipped three Next.js products (student portal, counselor dashboard, admin console), delivering to students across 10+ countries.
 * **Generative AI Engineer** — Rubercubic · Jan 2024 – Feb 2025
   - Built LLM agents that turn plain-language questions into SQL, Python, and charts against an ecommerce data warehouse — cutting ad-hoc analysis to seconds. Designed the data platform (Trino, Parquet on S3, Postgres, Redis) plus a scalable scraping and cleaning pipeline.
 * **AI Engineer** — adcopy.ai · Oct 2022 – Dec 2023
