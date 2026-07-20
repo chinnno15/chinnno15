@@ -3,7 +3,7 @@
 
 Founding Engineer 💡 — Real-Time Voice · LLM Agents · Full-Stack
 
-Engineer who builds AI products from an empty repo to production. Sole engineer behind a real-time AI voice platform. 12 years shipping systems where failure is expensive — emergency-response infrastructure, developer platforms at Twilio, and an 8M-user crypto wallet. Comfortable owning architecture, infrastructure, and product decisions.
+Engineer who builds AI products from an empty repo to production. First engineer behind a real-time AI voice platform. 12 years shipping systems where failure is expensive — emergency-response infrastructure, developer platforms at Twilio, and an 8M-user crypto wallet. Comfortable owning architecture, infrastructure, and product decisions.
 
 ### Tech Skills 🛠️
 * **Languages:** Python, TypeScript/JavaScript, Rust, Go, C#
@@ -15,7 +15,7 @@ Engineer who builds AI products from an empty repo to production. Sole engineer 
 
 ### Experience 🎯
 * **Founding Engineer** — [Addie](https://getaddie.com) (AI college counselor) · Oct 2024 – Present
-  - First and only engineer — built the entire product end to end. Architected a LangGraph agent system delivering personalized college counseling across web, SMS, voice, and WhatsApp, with real-time voice on WebRTC + OpenAI Realtime API. Shipped three Next.js products (student portal, counselor dashboard, admin console), delivering to students across 10+ countries.
+  - First engineer — built the product from an empty repo and grew the team as it scaled. Architected a LangGraph agent system delivering personalized college counseling across web, SMS, voice, and WhatsApp, with real-time voice on WebRTC + OpenAI Realtime API. Shipped three Next.js products (student portal, counselor dashboard, admin console), delivering to students across 10+ countries.
 * **Generative AI Engineer** — Rubercubic · Jan 2024 – Feb 2025
   - Built LLM agents that turn plain-language questions into SQL, Python, and charts against an ecommerce data warehouse — cutting ad-hoc analysis to seconds. Designed the data platform (Trino, Parquet on S3, Postgres, Redis) plus a scalable scraping and cleaning pipeline.
 * **AI Engineer** — adcopy.ai · Oct 2022 – Dec 2023
